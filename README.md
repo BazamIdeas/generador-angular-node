@@ -1,4 +1,4 @@
-# generator-torseker-w 
+# Generador ANEMSS  ()
 > Estructura base para desarrollo de api en nodejs, con express, mongo, sequelize, socket-io. Esta realizada con la base de un generador, permitiendo asi crear un proyecto con un solo comando.
 
 ## Installation
@@ -29,12 +29,13 @@ Ya puedes crear tu proyecto en cualquier directorio con solo este comando:
 yo torseker-w
 ```
 
-- Si deseas modificar el generador puedes hacerlo libremente, y en el proximo proyecto que crees se llevarán a efectos los cambios que hayas realizado.
+- Si deseas modificar el generador puedes hacerlo libremente, y en el proximo proyecto que crees se llevarán a efecto los cambios que hayas realizado.
 
 ## Licencia
 
 GPL-3.0 © 
-[Daniel Torres]() -> Creador del Scaffolding 
-[Cis Jímenez]() -> Creador del Generador 
-[Xavier Arias]() -> Apoyo Moral 
-[Luis Torres]() -> Apoyo Moral
+- BazamDev
+- [Daniel Torres]() -> Creador del Scaffolding 
+- [Cis Jímenez]() -> Creador del Generador 
+- [Xavier Arias]() -> Apoyo Moral 
+- [Luis Torres]() -> Apoyo Moral
