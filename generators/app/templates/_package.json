@@ -1,0 +1,30 @@
+{
+  "name": "Nombre del proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "async": "^2.6.0",
+    "compression": "^1.7.2",
+    "connect-multiparty": "^2.1.0",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0",
+    "jsonwebtoken": "^8.2.1",
+    "mmdb-reader": "^1.1.0",
+    "moment": "^2.22.1",
+    "mysql2": "^1.5.3",
+    "nodemailer": "^4.6.4",
+    "password-hash": "^1.2.2",
+    "sequelize": "^4.37.6",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bazam",
+  "license": "ISC"
+}

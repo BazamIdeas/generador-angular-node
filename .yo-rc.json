@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Daniel Torres",
+      "authorEmail": "danieljtorres94@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
