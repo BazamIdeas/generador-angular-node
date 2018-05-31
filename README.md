@@ -1,38 +1,40 @@
-# generator-torseker-w [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Estructura base para desarrollo de api en nodejs, con express, mongo, sequelize, socketio
+# generator-torseker-w 
+> Estructura base para desarrollo de api en nodejs, con express, mongo, sequelize, socket-io. Esta realizada con la base de un generador, permitiendo asi crear un proyecto con un solo comando.
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-torseker-w using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+Antes que nada instalar [Yeoman](http://yeoman.io) [npm](https://www.npmjs.com/) (asumiendo que se tiene instalado [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-torseker-w
 ```
 
-Then generate your new project:
+Instalar dependencias estando en la carpeta del proyecto:
 
+```bash
+npm install
+```
+
+Vincular el generador con los modulos globales de NodeJs:
+
+```bash
+npm link
+```
+
+
+## Listo...!!!
+
+Ya puedes crear tu proyecto en cualquier directorio con solo este comando:
 ```bash
 yo torseker-w
 ```
 
-## Getting To Know Yeoman
+- Si deseas modificar el generador puedes hacerlo libremente, y en el proximo proyecto que crees se llevarán a efectos los cambios que hayas realizado.
 
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
+## Licencia
 
-## License
-
-GPL-3.0 © [Daniel Torres]()
-
-
-[npm-image]: https://badge.fury.io/js/generator-torseker-w.svg
-[npm-url]: https://npmjs.org/package/generator-torseker-w
-[travis-image]: https://travis-ci.org/danieljtorres/generator-torseker-w.svg?branch=master
-[travis-url]: https://travis-ci.org/danieljtorres/generator-torseker-w
-[daviddm-image]: https://david-dm.org/danieljtorres/generator-torseker-w.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/danieljtorres/generator-torseker-w
-[coveralls-image]: https://coveralls.io/repos/danieljtorres/generator-torseker-w/badge.svg
-[coveralls-url]: https://coveralls.io/r/danieljtorres/generator-torseker-w
+GPL-3.0 © 
+[Daniel Torres]() -> Creador del Scaffolding 
+[Cis Jímenez]() -> Creador del Generador 
+[Xavier Arias]() -> Apoyo Moral 
+[Luis Torres]() -> Apoyo Moral
