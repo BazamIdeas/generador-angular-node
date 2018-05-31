@@ -1,4 +1,4 @@
-# Generador ANEMSS  ()
+# Generador NEMS
 > Estructura base para desarrollo de api en nodejs, con express, mongo, sequelize, socket-io. Esta realizada con la base de un generador, permitiendo asi crear un proyecto con un solo comando.
 
 ## Installation
@@ -32,9 +32,8 @@ yo torseker-w
 - Si deseas modificar el generador puedes hacerlo libremente, y en el proximo proyecto que crees se llevarán a efecto los cambios que hayas realizado.
 
 ## Licencia
-
-GPL-3.0 © 
-- BazamDev
+ 
+- BazamDev GPL-3.0 ©
 - [Daniel Torres]() -> Creador del Scaffolding 
 - [Cis Jímenez]() -> Creador del Generador 
 - [Xavier Arias]() -> Apoyo Moral 
